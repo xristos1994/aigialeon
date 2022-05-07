@@ -244,3 +244,15 @@ collections:
                   },
                 ],
             }
+      - file: "src/pages/our-court/index.md"
+        label: "Our Court"
+        name: "our-court"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "our-court-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
