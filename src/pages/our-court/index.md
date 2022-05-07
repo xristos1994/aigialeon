@@ -1,4 +1,7 @@
 ---
-title: jhbjb
+templateKey: 'our-court-page'
+path: /our-court
+title: This is our home
 ---
-bv hvvh
+### This is our home
+Here is our Home
