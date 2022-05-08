@@ -18,6 +18,7 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               tags
               templateKey
+              Reference
             }
           }
         }
@@ -33,6 +34,8 @@ exports.createPages = ({ actions, graphql }) => {
 
     posts.forEach((edge) => {
       const id = edge.node.id
+      const Reference  = edge.node.frontmatter.Reference;
+      console.log(Reference)
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
@@ -42,6 +45,7 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
+          ...(Reference ? { Reference: Reference.map(r => '/blog/' + r + '/') } : {})
         },
       })
     })
