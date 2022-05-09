@@ -266,3 +266,32 @@ collections:
               display_fields: ["{{title}} - {{date}}"],
               multiple: true
             }
+
+  - name: "header"
+    label: "Header"
+    folder: "src/components_md/header"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {
+          label: "Template Key",
+          name: "templateKey",
+          widget: "hidden",
+          default: "header",
+        }
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+        }
+      - {
+          label: "Links",
+          name: "links",
+          widget: "list",
+          allow_add: true,
+          fields:
+            [
+              { label: "Url", name: "url", widget: "string" },
+              { label: "Label", name: "label", widget: "string" }
+            ],
+        }
