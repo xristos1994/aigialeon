@@ -19,7 +19,18 @@ collections:
     create: true
     slug: "{{category}}/{{slug}}"
     fields:
-      - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+      - { label: "Element Type", name: "elementType", widget: "hidden", default: "page" }
+      - {
+          label: "Page Category",
+          name: "pageCategory",
+          required: true,
+          widget: "select",
+          options: [
+            { label: "'Ανδρες", value: "men" },
+            { label: "Γυναίκες", value: "women" },
+            { label: "Κορασίδες", value: "girls" }
+          ]
+        }
       - { label: "Category", name: "category", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
       - {
