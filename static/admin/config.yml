@@ -17,18 +17,19 @@ collections:
     label: "Pages"
     folder: "src/pages_md"
     create: true
-    slug: "{{slug}}"
+    slug: "{{category}}/{{slug}}"
     fields:
       - { label: "Template Key", name: "templateKey", widget: "hidden", default: "pages" }
+      - { label: "Category", name: "category", widget: "string" }
       - { label: "Title", name: "title", widget: "string" }
       - {
           label: "Header",
           name: "header",
           widget: "relation",
           collection: "header",
-          value_field: "{{slug}}",
+          value_field: "slug-{{slug}}",
           search_fields: ["title"],
-          display_fields: ["{{title}}"],
+          display_fields: ["title-{{title}}"],
           multiple: false
         }
       - {
@@ -43,7 +44,7 @@ collections:
         }
   - name: "blog-post"
     label: "Blog Post"
-    folder: "src/components_md/blogPosts"
+    folder: "src/COMPONENTS/blogPosts"
     create: true
     slug: "{{slug}}"
     fields:
@@ -63,7 +64,7 @@ collections:
 
   - name: "header"
     label: "Header"
-    folder: "src/components_md/header"
+    folder: "src/COMPONENTS/header"
     create: true
     slug: "{{slug}}"
     fields:
