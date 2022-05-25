@@ -17,87 +17,105 @@ collections:
     label: "Pages"
     folder: "src/pages_md"
     create: true
-    slug: "{{category}}/{{slug}}"
+    slug: "{{pageCategory}}/{{slug}}"
     fields:
       - { label: "Element Type", name: "elementType", widget: "hidden", default: "page" }
-      - {
-          label: "Page Category",
-          name: "pageCategory",
-          required: true,
-          widget: "select",
-          options: [
-            { label: "'Ανδρες", value: "men" },
-            { label: "Γυναίκες", value: "women" },
-            { label: "Κορασίδες", value: "girls" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Display Title", name: "displayTitle", widget: "string" }
+      - { label: "Main Image", name: "mainImage", widget: image }
+      - { label: "Description", name: "description", widget: "text" }
+      # - { label: "Page Category", name: "pageCategory", widget: "select",
+      #     options: [
+      #       { label: "'Ανδρες", value: "men" },
+      #       { label: "Γυναίκες", value: "women" },
+      #       { label: "Κορασίδες", value: "girls" }
+      #     ]
+      #   }
+      - { label: "References", name: "references", widget: "list", allow_add: true,
+          types: [
+            { label: "Header", name: "header",
+              fields: [
+                { label: "Header", name: "header", widget: "relation", collection: "header", value_field: "slug-{{slug}}", search_fields: ["title"], display_fields: ["title-{{title}}"], multiple: false }
+              ]
+            },
+            { label: "Blog Post", name: "blogPost",
+              fields: [
+                { label: "Blog Post", name: "blogPost", widget: "relation", collection: "blog-post", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["{{title}}"], multiple: false }
+              ]
+            },
+            { label: "Image Gallery", name: "imageGallery",
+              fields: [
+                { label: "Image Gallery", name: "imageGallery", widget: "relation", collection: "image-gallery", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["{{title}}"], multiple: false }
+              ]
+            }
           ]
         }
-      - { label: "Category", name: "category", widget: "string" }
-      - { label: "Title", name: "title", widget: "string" }
-      - {
-          label: "Header",
-          name: "header",
-          widget: "relation",
-          collection: "header",
-          value_field: "slug-{{slug}}",
-          search_fields: ["title"],
-          display_fields: ["title-{{title}}"],
-          multiple: false
-        }
-      - {
-          label: "Blog Post",
-          name: "blogPost",
-          widget: "relation",
-          collection: "blog-post",
-          value_field: "{{slug}}",
-          search_fields: ["title"],
-          display_fields: ["{{title}}"],
-          multiple: false
-        }
+      - { label: "Page Category", name: "pageCategory", widget: "relation", multiple: true, collection: "page-category", display_fields: ["{{title}}"], search_fields: ["title"], value_field: "{{slug}}" }
+
   - name: "blog-post"
     label: "Blog Post"
-    folder: "src/COMPONENTS/blogPosts"
+    folder: "src/pages_md/COMPONENTS/blogPosts"
     create: true
     slug: "{{slug}}"
     fields:
-      - {
-          label: "Template Key",
-          name: "templateKey",
-          widget: "hidden",
-          default: "blog-post",
-        }
+      - { label: "Element Type", name: "elementType", widget: "hidden", default: "blog-post" }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Display Title", name: "displayTitle", widget: "string" }
+      - { label: "Publish Date", name: "publishDate", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Featured Post", name: "featuredpost", widget: "boolean" }
-      - { label: "Featured Image", name: "featuredimage", widget: image }
+      - { label: "Main Image", name: "mainImage", widget: image }
+      - { label: "Preview Image", name: "previewImage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
 
   - name: "header"
     label: "Header"
-    folder: "src/COMPONENTS/header"
+    folder: "src/pages_md/COMPONENTS/header"
     create: true
     slug: "{{slug}}"
     fields:
-      - {
-          label: "Template Key",
-          name: "templateKey",
-          widget: "hidden",
-          default: "header",
+      - { label: "Element Type", name: "elementType", widget: "hidden", default: "header" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Page Category", name: "pageCategory", widget: "relation", multiple: true, collection: "page-category", display_fields: ["{{title}}"], search_fields: ["title"], value_field: "{{slug}}" }
+
+  - name: "image-gallery"
+    label: "Image Gallery"
+    folder: "src/pages_md/COMPONENTS/imageGallery"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Element Type", name: "elementType", widget: "hidden", default: "imageGallery" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Display Title", name: "displayTitle", widget: "string" }
+      - { label: "Image List", name: "imageList", widget: "list",
+          fields: [
+            { label: Image, name: image, widget: object,
+              fields: [
+                { label: Full Image, name: fullImage, widget: image },
+                { label: Preview Image, name: previewImage, widget: image },
+                { label: Alt, name: alt, widget: string },
+              ]
+            }
+          ]
         }
-      - {
-          label: "Title",
-          name: "title",
-          widget: "string",
-        }
-      - {
-          label: "Links",
-          name: "links",
-          widget: "list",
-          allow_add: true,
-          fields:
-            [
-              { label: "Url", name: "url", widget: "string" },
-              { label: "Label", name: "label", widget: "string" }
-            ],
-        }
+
+  - name: "page-category"
+    label: "Page Category"
+    folder: "src/pages_md/COMPONENTS/pageCategory"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Element Type", name: "elementType", widget: "hidden", default: "pageCategory" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Url", name: "url", widget: "string" }
+      - { label: "Label", name: "label", widget: "string" }
+
+
+# na valw
+#  - video gallery
+#  - single video
+#  - location
+
+# na ftia3w ena collection pou 8a exei page Categories kai 8a apoteleitai apo
+#   - title
+#   - url
+# kai o header na exei reference se auta ka8ws kai ka8e selida na dexetai tags pou 8a exoun references sta items autou tou collection

@@ -8,5 +8,5 @@ import { BlogPostPreview } from './preview-templates/BlogPostPreview'
 CMS.registerMediaLibrary(uploadcare)
 CMS.registerMediaLibrary(cloudinary)
 
-CMS.registerPreviewTemplate('header', HeaderPreview)
+// CMS.registerPreviewTemplate('header', HeaderPreview)
 CMS.registerPreviewTemplate('blog-post', BlogPostPreview)

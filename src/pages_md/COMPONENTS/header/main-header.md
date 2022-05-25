@@ -1,5 +1,5 @@
 ---
-templateKey: header
+elementType: header
 title: Main Header
 pageCategory:
   - men
