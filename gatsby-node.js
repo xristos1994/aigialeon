@@ -4,7 +4,50 @@ const { createFilePath } = require('gatsby-source-filesystem')
 const { fmImagesToRelative } = require('gatsby-remark-relative-images')
 
 exports.createPages = ({ actions, graphql }) => {
-  // const { createPage } = actions
+  const { createPage } = actions;
+
+  const slugs = {}
+
+  return graphql(`{
+    allMarkdownRemark(
+      filter: {frontmatter: {elementType: {eq: "page"}}},
+      limit: 1000
+    ) {
+      edges {
+        node {
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            elementType
+            title
+            displayTitle
+            mainImage
+            description
+            pageCategory
+            references {
+              type
+              header
+              blogPost
+            }
+          }
+        }
+      }
+    }
+  }`)
+  .then((result) => {
+    if (result.errors) {
+      result.errors.forEach((e) => console.error(e.toString()))
+      return Promise.reject(result.errors)
+    }
+
+    const pages = result.data.allMarkdownRemark.edges;
+
+    pages.forEach(page => {
+      console.log(page);
+    });
+  })
 
   // return graphql(`
     // {
