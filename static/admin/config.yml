@@ -103,6 +103,7 @@ collections:
     folder: "src/pages_md/COMPONENTS/pageCategory"
     create: true
     slug: "{{slug}}"
+    id: "{{id}}"
     fields:
       - { label: "Element Type", name: "elementType", widget: "hidden", default: "pageCategory" }
       - { label: "Title", name: "title", widget: "string" }
