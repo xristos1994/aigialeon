@@ -1,6 +1,6 @@
 ---
 elementType: page
-title: Default page with all references
+title: Default page with no references
 displayTitle: asdf
 mainImage: /img/chemex.jpg
 description: adsfasdf
