@@ -7,6 +7,8 @@ description: First page description
 references:
   - type: header
     header: my-header
+  - type: blogPost
+    blogPost: first-blog-post
 pageCategory:
   - men
   - women
