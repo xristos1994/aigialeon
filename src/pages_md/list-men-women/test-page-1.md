@@ -7,6 +7,8 @@ description: Test page Description
 references:
   - type: header
     header: slug-main-header
+  - type: blogPost
+    blogPost: test-blog
 pageCategory:
   - men
   - women
