@@ -25,13 +25,6 @@ collections:
       - { label: "Main Image", name: "mainImage", widget: image }
       - { label: "Main Image Alt", name: "mainImageAlt", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
-      # - { label: "Page Category", name: "pageCategory", widget: "select",
-      #     options: [
-      #       { label: "'Ανδρες", value: "men" },
-      #       { label: "Γυναίκες", value: "women" },
-      #       { label: "Κορασίδες", value: "girls" }
-      #     ]
-      #   }
       - { label: "References", name: "references", widget: "list", allow_add: true,
           types: [
             { label: "Header", name: "header",
@@ -65,7 +58,9 @@ collections:
       - { label: "Publish Date", name: "publishDate", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Main Image", name: "mainImage", widget: image }
+      - { label: "Main Image Alt", name: "mainImageAlt", widget: "string" }
       - { label: "Preview Image", name: "previewImage", widget: image }
+      - { label: "Preview Image Alt", name: "previewImageAlt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "header"
@@ -104,6 +99,8 @@ collections:
     folder: "src/pages_md/COMPONENTS/pageCategory"
     create: true
     slug: "{{slug}}"
+    editor:
+      preview: false
     fields:
       - { label: "Element Type", name: "elementType", widget: "hidden", default: "pageCategory" }
       - { label: "Title", name: "title", widget: "string" }
@@ -115,8 +112,3 @@ collections:
 #  - video gallery
 #  - single video
 #  - location
-
-# na ftia3w ena collection pou 8a exei page Categories kai 8a apoteleitai apo
-#   - title
-#   - url
-# kai o header na exei reference se auta ka8ws kai ka8e selida na dexetai tags pou 8a exoun references sta items autou tou collection

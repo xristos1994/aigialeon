@@ -6,6 +6,11 @@ export const BlogPost = ({
   description,
   tags,
   title,
+  publishDate,
+  mainImageName,
+  mainImageAlt,
+  previewImageName,
+  previewImageAlt
 }) => {
 
   return (
@@ -17,6 +22,25 @@ export const BlogPost = ({
               {title}
             </h1>
             <p>{description}</p>
+
+            {
+              mainImageName ? (
+                <p>mainImage: {mainImageName} with alt: {mainImageAlt}</p>
+              ) : null
+            }
+
+            {
+              previewImageName ? (
+                <p>previewImageName: {previewImageName} with alt: {previewImageAlt}</p>
+              ) : null
+            }
+
+            {
+              publishDate ? (
+                <p>{publishDate.toString()}</p>
+              ) : null
+            }
+
             <Content content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>

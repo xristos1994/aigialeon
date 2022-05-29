@@ -28,6 +28,7 @@ const getPages = async (graphql) => {
             mainImage {
               name
             }
+            mainImageAlt
             description
             pageCategory
             references {
