@@ -7,10 +7,8 @@ export const BlogPost = ({
   tags,
   title,
   publishDate,
-  mainImageName,
-  mainImageAlt,
-  previewImageName,
-  previewImageAlt
+  mainImage,
+  previewImage
 }) => {
 
   return (
@@ -24,14 +22,14 @@ export const BlogPost = ({
             <p>{description}</p>
 
             {
-              mainImageName ? (
-                <p>mainImage: {mainImageName} with alt: {mainImageAlt}</p>
+              mainImage.name ? (
+                <p>mainImage: {mainImage.name} with alt: {mainImage.alt}</p>
               ) : null
             }
 
             {
-              previewImageName ? (
-                <p>previewImageName: {previewImageName} with alt: {previewImageAlt}</p>
+              previewImage.name ? (
+                <p>previewImageName: {previewImage.name} with alt: {previewImage.alt}</p>
               ) : null
             }
 

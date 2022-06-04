@@ -1,11 +1,11 @@
 import * as React from "react";
 
-export const Image = ({ imageName, imageAlt }) => {
-  if(!imageName) {
+export const Image = ({ image }) => {
+  if(!image?.name) {
     return null;
   }
 
   return (
-    <h2>Image: {imageName} and ImageAlt: {imageAlt} </h2>
+    <h2>Image: {image.name} and ImageAlt: {image.alt} </h2>
   );
 };

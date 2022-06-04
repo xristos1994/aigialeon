@@ -3,7 +3,7 @@ import { Description } from '../Description/Description';
 import { Image } from '../Image/Image';
 import { Title } from '../Title/Title';
 
-export const Header = ({ links = [], title, description, imageName, imageAlt }) => {
+export const Header = ({ links = [], title, description, mainImage }) => {
   return (
     <>
       {
@@ -26,7 +26,7 @@ export const Header = ({ links = [], title, description, imageName, imageAlt }) 
 
       <Title title={title} />
       <Description description={description} />
-      <Image imageName={imageName} imageAlt={imageAlt} />
+      <Image image={mainImage} />
     </>
   );
 };

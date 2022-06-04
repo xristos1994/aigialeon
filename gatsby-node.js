@@ -2,7 +2,6 @@ const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 const { fmImagesToRelative } = require('gatsby-remark-relative-images');
-const { graphql } = require('gatsby');
 
 const handleGraphplErrors = (errors) => {
   if (errors) {
@@ -79,6 +78,50 @@ const getHeaderBySlug = async (graphql, slug) => {
   return {header_errors, header};
 };
 
+const getBlogPostBySlug = async (graphql, slug) => {
+  const blogPostQueryResult = await graphql(`{
+    allMarkdownRemark(filter: {
+      frontmatter: {elementType: {eq: "blog-post"}}
+      fields: {slug: {eq: "/COMPONENTS/blogPosts/${slug}/"}}
+    }, limit: 1) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          id
+          frontmatter {
+            elementType
+            title
+            pageCategory
+            description
+            displayTitle
+            label
+            mainImage {
+              name
+            }
+            mainImageAlt
+            previewImage {
+              name
+            }
+            previewImageAlt
+            publishDate
+          }
+        }
+      }
+    }
+  }`);
+
+  console.log(blogPostQueryResult?.data?.allMarkdownRemark)
+
+  const blogPost_errors = blogPostQueryResult?.errors;
+  const blogPost = blogPostQueryResult?.data?.allMarkdownRemark?.edges?.[0]?.node?.frontmatter;
+
+  handleGraphplErrors(blogPost_errors);
+
+  return {blogPost_errors, blogPost};
+};
+
 const getPageCategoryBySlug = async (graphql, slug) => {
   const pageCategoryQueryResult = await graphql(`{
     allMarkdownRemark(filter: {
@@ -138,6 +181,21 @@ const getHeaderComponentBySlug = async (graphql, slug) => {
   return void 0;
 };
 
+const getBlogPostComponentBySlug = async (graphql, slug) => {
+  const {blogPost_errors, blogPost} = await getBlogPostBySlug(graphql, slug);
+
+  if (!blogPost_errors){
+    return {
+      component: 'BlogPost',
+      props: {
+        ...blogPost
+      }
+    };
+  }
+
+  return void 0;
+};
+
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions;
 
@@ -153,10 +211,11 @@ exports.createPages = async ({ actions, graphql }) => {
 
     const title = page?.node?.frontmatter?.displayTitle;
     const description = page?.node?.frontmatter?.description;
-    const mainImageName = page?.node?.frontmatter?.mainImage?.name;
-    const mainImageAlt = page?.node?.frontmatter?.mainImageAlt;
+    const mainImage = {...(page?.node?.frontmatter?.mainImage || {})}
+    mainImage.alt = page?.node?.frontmatter?.mainImageAlt;
 
     for(let ref of page?.node?.frontmatter?.references) {
+      console.log(ref)
       const refSlug = ref[ref?.type];
 
       if (ref?.type === 'header') {
@@ -167,13 +226,15 @@ exports.createPages = async ({ actions, graphql }) => {
 
           if(title) headerComponent.props.title = title;
           if(description) headerComponent.props.description = description;
-          if(mainImageName) headerComponent.props.imageName = mainImageName;
-          if(mainImageName && mainImageAlt) headerComponent.props.imageAlt = mainImageAlt;
+          if(mainImage?.name) headerComponent.props.mainImage = mainImage;
 
           headerExists = true;
 
           pageComponents.push(headerComponent);
         }
+      } else if (ref?.type === 'blogPost') {
+        const blogPostComponent = await getBlogPostComponentBySlug(graphql, refSlug);
+        pageComponents.push(blogPostComponent);
       }
     };
 
@@ -182,7 +243,7 @@ exports.createPages = async ({ actions, graphql }) => {
     if(!headerExists) {
       if(title) extraComponentsInTheBeginning.push({component: 'Title', props: { title }});
       if(description) extraComponentsInTheBeginning.push({component: 'Description', props: { description }});
-      if(mainImageName) extraComponentsInTheBeginning.push({component: 'Image', props: { imageName: mainImageName, imageAlt: mainImageAlt }});
+      if(mainImage?.name) extraComponentsInTheBeginning.push({component: 'Image', props: { image: mainImage }});
     }
 
     console.log(pageComponents);

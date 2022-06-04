@@ -3,12 +3,14 @@ import { Header } from "../Header/Header";
 import { Description } from '../Description/Description';
 import { Image } from '../Image/Image';
 import { Title } from '../Title/Title';
+import { BlogPost } from '../BlogPost/BlogPost';
 
 const Components = {
   Header,
   Description,
   Image,
-  Title
+  Title,
+  BlogPost
 }
 
 export const DynamicComponent = ({ component, props = {} }) => {
