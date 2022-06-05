@@ -10,6 +10,8 @@ references:
     header: my-header
   - type: blogPost
     blogPost: first-blog-post
+  - type: imageGallery
+    imageGallery: first-image-gallery
 pageCategory:
   - men
   - women
