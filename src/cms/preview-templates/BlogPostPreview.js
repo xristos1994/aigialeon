@@ -7,8 +7,10 @@ export const BlogPostPreview = ({ entry, widgetFor }) => {
   const tags = entry.getIn(['data', 'tags']);
   const displayTitle = entry.getIn(['data', 'displayTitle']);
   const publishDate = entry.getIn(['data', 'publishDate']);
-  const mainImage = entry.getIn(['data', 'mainImage']) || {};
-  const previewImage = entry.getIn(['data', 'previewImage']) || {};
+  const mainImageAlt = entry.getIn(['data', 'mainImageAlt']);
+  const previewImageAlt = entry.getIn(['data', 'previewImageAlt']);
+  const mainImage = {...(entry.getIn(['data', 'mainImage']) || {}), alt: mainImageAlt};
+  const previewImage = {...(entry.getIn(['data', 'previewImage']) || {}), alt: previewImageAlt};
 
   return (
     <BlogPost

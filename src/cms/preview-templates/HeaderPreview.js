@@ -1,8 +1,8 @@
 import React from 'react';
 import { Header } from '../../components/Header/Header';
 
-export const HeaderPreview = (props) => {
-  const data = props.entry.getIn(['data']).toJS();
+export const HeaderPreview = ({ entry }) => {
+  const data = entry.getIn(['data']).toJS();
 
   const linkSlugs = data.pageCategory;
 

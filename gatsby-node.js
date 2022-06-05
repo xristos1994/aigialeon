@@ -34,6 +34,7 @@ const getPages = async (graphql) => {
               type
               header
               blogPost
+              imageGallery
             }
           }
         }
@@ -94,7 +95,6 @@ const getBlogPostBySlug = async (graphql, slug) => {
           html
           frontmatter {
             elementType
-            title
             description
             displayTitle
             mainImage {
@@ -123,9 +123,11 @@ const getBlogPostBySlug = async (graphql, slug) => {
   }
 
   blogPost.content = blogPostQueryResult?.data?.allMarkdownRemark?.edges?.[0]?.node?.html;
+  blogPost.title = blogPost?.displayTitle;
 
   delete blogPost?.mainImageAlt;
   delete blogPost?.previewImageAlt;
+  delete blogPost?.displayTitle;
 
   handleGraphplErrors(blogPost_errors);
 
@@ -156,6 +158,74 @@ const getPageCategoryBySlug = async (graphql, slug) => {
   handleGraphplErrors(pageCategory_errors);
 
   return {pageCategory_errors, pageCategory};
+};
+
+const getImageGalleryBySlug = async (graphql, slug) => {
+  const imageGalleryQueryResult = await graphql(`{
+    allMarkdownRemark(filter: {
+      frontmatter: {elementType: {eq: "imageGallery"}}
+      fields: {slug: {eq: "/COMPONENTS/imageGallery/${slug}/"}}
+    }, limit: 1) {
+      edges {
+        node {
+          frontmatter {
+            elementType
+            displayTitle
+            imageList {
+              image {
+                alt
+                fullImage {
+                  name
+                }
+                previewImage {
+                  name
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }`);
+  console.log(`{
+    allMarkdownRemark(filter: {
+      frontmatter: {elementType: {eq: "imageGallery"}}
+      fields: {slug: {eq: "/COMPONENTS/imageGallery/${slug}/"}}
+    }, limit: 1) {
+      edges {
+        node {
+          frontmatter {
+            elementType
+            displayTitle
+            imageList {
+              image {
+                alt
+                fullImage {
+                  name
+                }
+                previewImage {
+                  name
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }`)
+
+  const imageGallery_errors = imageGalleryQueryResult?.errors;
+  const imageGallery = imageGalleryQueryResult?.data?.allMarkdownRemark?.edges?.[0]?.node?.frontmatter;
+
+  imageGallery.images = imageGallery?.imageList?.map(({image}) => image);
+  delete imageGallery?.imageList;
+
+  imageGallery.title = imageGallery?.displayTitle;
+  delete imageGallery?.displayTitle;
+
+  handleGraphplErrors(imageGallery_errors);
+
+  return {imageGallery_errors, imageGallery};
 };
 
 // --------------------------------------------------------
@@ -206,6 +276,21 @@ const getBlogPostComponentBySlug = async (graphql, slug) => {
   return void 0;
 };
 
+const getImageGalleryComponentBySlug = async (graphql, slug) => {
+  const {imageGallery_errors, imageGallery} = await getImageGalleryBySlug(graphql, slug);
+
+  if (!imageGallery_errors){
+    return {
+      component: 'ImageGallery',
+      props: {
+        ...imageGallery
+      }
+    };
+  }
+
+  return void 0;
+};
+
 exports.createPages = async ({ actions, graphql }) => {
   const { createPage } = actions;
 
@@ -225,6 +310,7 @@ exports.createPages = async ({ actions, graphql }) => {
     mainImage.alt = page?.node?.frontmatter?.mainImageAlt;
 
     for(let ref of page?.node?.frontmatter?.references) {
+      console.log(ref)
       const refSlug = ref[ref?.type];
 
       if (ref?.type === 'header') {
@@ -244,6 +330,9 @@ exports.createPages = async ({ actions, graphql }) => {
       } else if (ref?.type === 'blogPost') {
         const blogPostComponent = await getBlogPostComponentBySlug(graphql, refSlug);
         pageComponents.push(blogPostComponent);
+      } else if (ref?.type === 'imageGallery') {
+        const imageGalleryComponent = await getImageGalleryComponentBySlug(graphql, refSlug);
+        pageComponents.push(imageGalleryComponent);
       }
     };
 

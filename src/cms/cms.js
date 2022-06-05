@@ -4,9 +4,11 @@ import cloudinary from 'netlify-cms-media-library-cloudinary';
 
 import { HeaderPreview } from './preview-templates/HeaderPreview';
 import { BlogPostPreview } from './preview-templates/BlogPostPreview';
+import { ImageGalleryPreview } from './preview-templates/ImageGalleryPreview';
 
 CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
 
 CMS.registerPreviewTemplate('header', HeaderPreview);
 CMS.registerPreviewTemplate('blog-post', BlogPostPreview);
+CMS.registerPreviewTemplate('image-gallery', ImageGalleryPreview);

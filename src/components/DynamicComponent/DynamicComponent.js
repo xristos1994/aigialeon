@@ -4,13 +4,15 @@ import { Description } from '../Description/Description';
 import { Image } from '../Image/Image';
 import { Title } from '../Title/Title';
 import { BlogPost } from '../BlogPost/BlogPost';
+import { ImageGallery } from '../ImageGallery/ImageGallery';
 
 const Components = {
   Header,
   Description,
   Image,
   Title,
-  BlogPost
+  BlogPost,
+  ImageGallery
 }
 
 export const DynamicComponent = ({ component, props = {} }) => {
