@@ -107,8 +107,9 @@ collections:
       - { label: "Url", name: "url", widget: "string" }
       - { label: "Label", name: "label", widget: "string" }
 
-
+# na ftia3w imageGallery component and logic
 # na valw
 #  - video gallery
 #  - single video
 #  - location
+#  - roster with players list

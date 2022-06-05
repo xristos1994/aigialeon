@@ -33,6 +33,7 @@ const getPages = async (graphql) => {
             references {
               type
               header
+              blogPost
             }
           }
         }
@@ -90,13 +91,12 @@ const getBlogPostBySlug = async (graphql, slug) => {
             slug
           }
           id
+          html
           frontmatter {
             elementType
             title
-            pageCategory
             description
             displayTitle
-            label
             mainImage {
               name
             }
@@ -112,10 +112,20 @@ const getBlogPostBySlug = async (graphql, slug) => {
     }
   }`);
 
-  console.log(blogPostQueryResult?.data?.allMarkdownRemark)
-
   const blogPost_errors = blogPostQueryResult?.errors;
   const blogPost = blogPostQueryResult?.data?.allMarkdownRemark?.edges?.[0]?.node?.frontmatter;
+  if (blogPost?.mainImage) {
+    blogPost.mainImage.alt = blogPost?.mainImageAlt;
+  }
+
+  if (blogPost?.mainImage) {
+    blogPost.previewImage.alt = blogPost?.previewImageAlt;
+  }
+
+  blogPost.content = blogPostQueryResult?.data?.allMarkdownRemark?.edges?.[0]?.node?.html;
+
+  delete blogPost?.mainImageAlt;
+  delete blogPost?.previewImageAlt;
 
   handleGraphplErrors(blogPost_errors);
 
@@ -215,7 +225,6 @@ exports.createPages = async ({ actions, graphql }) => {
     mainImage.alt = page?.node?.frontmatter?.mainImageAlt;
 
     for(let ref of page?.node?.frontmatter?.references) {
-      console.log(ref)
       const refSlug = ref[ref?.type];
 
       if (ref?.type === 'header') {
