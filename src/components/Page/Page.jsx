@@ -1,5 +1,7 @@
 import React from "react";
 import { DynamicComponent } from '../DynamicComponent/DynamicComponent';
+import './Page.module.css';
+import './variables.module.css';
 
 const Page = (props) => {
   const components = props?.pageContext?.components || [];

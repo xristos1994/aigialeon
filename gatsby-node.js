@@ -356,7 +356,7 @@ exports.createPages = async ({ actions, graphql }) => {
             createPage({
               path: pageSlug,
               component: path.resolve(
-                `src/components/Page/Page.js`
+                `src/components/Page/Page.jsx`
               ),
               // additional data can be passed via context
               context: {

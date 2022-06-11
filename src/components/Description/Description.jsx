@@ -1,4 +1,5 @@
 import * as React from "react";
+import * as styles from './Description.module.css';
 
 export const Description = ({ description }) => {
   if(!description) {
@@ -6,6 +7,6 @@ export const Description = ({ description }) => {
   }
 
   return (
-    <p>{description}</p>
+    <p className={styles.description}>{description}</p>
   );
 };
