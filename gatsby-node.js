@@ -121,7 +121,7 @@ const getBlogPostBySlug = async (graphql, slug) => {
     blogPost.mainImage.alt = blogPost?.mainImageAlt;
   }
 
-  if (blogPost?.mainImage) {
+  if (blogPost?.previewImage) {
     blogPost.previewImage.alt = blogPost?.previewImageAlt;
   }
 
@@ -277,11 +277,17 @@ exports.createPages = async ({ actions, graphql }) => {
   handleGraphplErrors(page_errors);
   if(page_errors) return page_errors;
 
+  const categoryPages = {};
+  // TODO ---> Na ftia3w sto cms enan header gia tis category pages
+  // h kalutera na valw ena epipleon pedio ston header opou na lew an einai default header
+  let tempHeaderComponent = null;
+
 
   for(let page of pages) {
     let headerExists = false;
     const slug = page.node.fields.slug;
     const pageComponents = [];
+    const pageCategory = page?.node?.frontmatter?.pageCategory;
 
     const title = page?.node?.frontmatter?.displayTitle;
     const description = page?.node?.frontmatter?.description;
@@ -289,7 +295,6 @@ exports.createPages = async ({ actions, graphql }) => {
     mainImage.alt = page?.node?.frontmatter?.mainImageAlt;
 
     for(let ref of page?.node?.frontmatter?.references) {
-      console.log(ref)
       const refSlug = ref[ref?.type];
 
       if (ref?.type === 'header') {
@@ -298,17 +303,39 @@ exports.createPages = async ({ actions, graphql }) => {
         if (headerComponent) {
           if(!headerComponent.props) headerComponent.props = {};
 
+          tempHeaderComponent = {...headerComponent, props: {...headerComponent.props}};
+
           if(title) headerComponent.props.title = title;
           if(description) headerComponent.props.description = description;
           if(mainImage?.name) headerComponent.props.mainImage = mainImage;
 
           headerExists = true;
-
           pageComponents.push(headerComponent);
         }
       } else if (ref?.type === 'blogPost') {
         const blogPostComponent = await getBlogPostComponentBySlug(graphql, refSlug);
         pageComponents.push(blogPostComponent);
+
+        if(pageCategory?.length) {
+          for(let categorySlug of pageCategory) {
+            if (!categoryPages[categorySlug]) {
+              categoryPages[categorySlug] = {
+                blogPosts: []
+              };
+            }
+
+            if (!categoryPages[categorySlug].blogPosts.find(blog => blog.slug === refSlug)) {
+              categoryPages[categorySlug].blogPosts.push({
+                title: blogPostComponent.props.title,
+                description: blogPostComponent.props.description,
+                previewImage: blogPostComponent.props.previewImage,
+                slug: refSlug
+              });
+            }
+          }
+        }
+
+
       } else if (ref?.type === 'imageGallery') {
         const imageGalleryComponent = await getImageGalleryComponentBySlug(graphql, refSlug);
         pageComponents.push(imageGalleryComponent);
@@ -323,14 +350,21 @@ exports.createPages = async ({ actions, graphql }) => {
       if(mainImage?.name) extraComponentsInTheBeginning.push({component: 'Image', props: { image: mainImage }});
     }
 
-    console.log(pageComponents);
-
-    const pageCategory = page?.node?.frontmatter?.pageCategory;
     if(pageCategory?.length) {
       for(let categorySlug of pageCategory) {
         const {pageCategory_errors, pageCategory} = await getPageCategoryBySlug(graphql, categorySlug);
           if(!pageCategory_errors) {
             const pageSlug = pageCategory.url + slug;
+
+            if (categoryPages[categorySlug]) {
+              categoryPages[categorySlug].blogPosts = categoryPages[categorySlug].blogPosts.map(blog => ({
+                ...blog,
+                url: pageSlug
+              }));
+
+              categoryPages[categorySlug].url = pageCategory.url;
+              categoryPages[categorySlug].title = pageCategory.label
+            }
 
             createPage({
               path: pageSlug,
@@ -346,6 +380,22 @@ exports.createPages = async ({ actions, graphql }) => {
       }
     }
   };
+
+  Object.values(categoryPages).forEach(categoryPage => {
+    createPage({
+      path: categoryPage.url,
+      component: path.resolve(
+        `src/components/Page/Page.jsx`
+      ),
+      context: {
+        components: [
+          tempHeaderComponent,
+          { component: 'Title', props: { title: categoryPage.title }},
+          { component: 'BlogPostsList', props: { blogPosts: categoryPage.blogPosts }},
+        ]
+      },
+    });
+  })
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
