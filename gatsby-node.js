@@ -26,6 +26,7 @@ const getPages = async (graphql) => {
             displayTitle
             mainImage {
               name
+              publicURL
             }
             mainImageAlt
             description
@@ -98,10 +99,12 @@ const getBlogPostBySlug = async (graphql, slug) => {
             description
             displayTitle
             mainImage {
+              publicURL
               name
             }
             mainImageAlt
             previewImage {
+              publicURL
               name
             }
             previewImageAlt
@@ -176,9 +179,11 @@ const getImageGalleryBySlug = async (graphql, slug) => {
                 alt
                 fullImage {
                   name
+                  publicURL
                 }
                 previewImage {
                   name
+                  publicURL
                 }
               }
             }
@@ -187,32 +192,6 @@ const getImageGalleryBySlug = async (graphql, slug) => {
       }
     }
   }`);
-  console.log(`{
-    allMarkdownRemark(filter: {
-      frontmatter: {elementType: {eq: "imageGallery"}}
-      fields: {slug: {eq: "/COMPONENTS/imageGallery/${slug}/"}}
-    }, limit: 1) {
-      edges {
-        node {
-          frontmatter {
-            elementType
-            displayTitle
-            imageList {
-              image {
-                alt
-                fullImage {
-                  name
-                }
-                previewImage {
-                  name
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }`)
 
   const imageGallery_errors = imageGalleryQueryResult?.errors;
   const imageGallery = imageGalleryQueryResult?.data?.allMarkdownRemark?.edges?.[0]?.node?.frontmatter;
