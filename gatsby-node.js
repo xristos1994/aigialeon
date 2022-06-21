@@ -55,7 +55,7 @@ const getHeaderBySlug = async (graphql, slug) => {
   const headerQueryResult = await graphql(`{
     allMarkdownRemark(filter: {
       frontmatter: {elementType: {eq: "header"}}
-      fields: {slug: {eq: "/COMPONENTS/header/${slug}/"}}
+      fields: {slug: {eq: "/COMPONENTS/headers/${slug}/"}}
     }, limit: 1) {
       edges {
         node {
@@ -141,7 +141,7 @@ const getPageCategoryBySlug = async (graphql, slug) => {
   const pageCategoryQueryResult = await graphql(`{
     allMarkdownRemark(filter: {
       frontmatter: {elementType: {eq: "pageCategory"}}
-      fields: {slug: {eq: "/COMPONENTS/pageCategory/${slug}/"}}
+      fields: {slug: {eq: "/COMPONENTS/pageCategories/${slug}/"}}
     }) {
       edges {
         node {
@@ -167,7 +167,7 @@ const getImageGalleryBySlug = async (graphql, slug) => {
   const imageGalleryQueryResult = await graphql(`{
     allMarkdownRemark(filter: {
       frontmatter: {elementType: {eq: "imageGallery"}}
-      fields: {slug: {eq: "/COMPONENTS/imageGallery/${slug}/"}}
+      fields: {slug: {eq: "/COMPONENTS/imageGalleries/${slug}/"}}
     }, limit: 1) {
       edges {
         node {
