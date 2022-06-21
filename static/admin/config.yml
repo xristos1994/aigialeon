@@ -46,8 +46,8 @@ collections:
         }
       - { label: "Page Category", name: "pageCategory", widget: "relation", multiple: true, collection: "page-category", display_fields: ["{{title}}"], search_fields: ["title"], value_field: "{{slug}}" }
 
-  - name: "blog-post"
-    label: "Blog Post"
+  - name: "blog-posts"
+    label: "Blog Posts"
     folder: "src/pages_md/COMPONENTS/blogPosts"
     create: true
     slug: "{{slug}}"
@@ -63,9 +63,9 @@ collections:
       - { label: "Preview Image Alt", name: "previewImageAlt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-  - name: "header"
-    label: "Header"
-    folder: "src/pages_md/COMPONENTS/header"
+  - name: "headers"
+    label: "Headers"
+    folder: "src/pages_md/COMPONENTS/headers"
     create: true
     slug: "{{slug}}"
     fields:
@@ -73,9 +73,9 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Page Category", name: "pageCategory", widget: "relation", multiple: true, collection: "page-category", display_fields: ["{{title}}"], search_fields: ["title"], value_field: "{{slug}}" }
 
-  - name: "image-gallery"
-    label: "Image Gallery"
-    folder: "src/pages_md/COMPONENTS/imageGallery"
+  - name: "image-galleries"
+    label: "Image Galleries"
+    folder: "src/pages_md/COMPONENTS/imageGalleries"
     create: true
     slug: "{{slug}}"
     fields:
@@ -94,9 +94,9 @@ collections:
           ]
         }
 
-  - name: "page-category"
-    label: "Page Category"
-    folder: "src/pages_md/COMPONENTS/pageCategory"
+  - name: "page-categories"
+    label: "Page Categories"
+    folder: "src/pages_md/COMPONENTS/pageCategories"
     create: true
     slug: "{{slug}}"
     editor:

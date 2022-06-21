@@ -1,0 +1,63 @@
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: var(--header-bg-color);
+  font-size: 1.2rem;
+}
+
+.headerLink {
+  text-decoration: none;
+  padding: 0.5rem;
+  cursor: pointer;
+  color: var(--header-color);
+}
+
+.headerLink:hover {
+  background-color: var(--header-hover-bg-color);
+  color: var(--header-hover-color);
+}
+
+.headerLink.selected,
+.headerLink.selected {
+  background-color: var(--header-selected-bg-color);
+  color: var(--header-selected-color);
+  cursor: default;
+  pointer-events: none;
+}
+
+.toggleMenuBtn {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    flex-direction: column;
+  }
+
+  .headerLink {
+    display: none;
+  }
+
+  .withExpandedMenu > .headerLink {
+    display: block
+  }
+
+  .toggleMenuBtn {
+    display: block;
+    cursor: pointer;
+    color: var(--header-color);
+    width: fit-content;
+    padding: 0.5rem;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-color: transparent;
+    border: none;
+    font-size: 1em;
+  }
+
+  .toggleMenuBtn:hover {
+    background-color: var(--header-hover-bg-color);
+    color: var(--header-hover-color);
+  }
+}

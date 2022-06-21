@@ -5,6 +5,8 @@ import { Image } from '../Image/Image';
 import { Title } from '../Title/Title';
 import { BlogPost } from '../BlogPost/BlogPost';
 import { ImageGallery } from '../ImageGallery/ImageGallery';
+import { BlogPostsList } from '../BlogPostsList/BlogPostsList';
+import { BlogPostPreview } from '../BlogPostPreview/BlogPostPreview';
 
 const Components = {
   Header,
@@ -12,7 +14,9 @@ const Components = {
   Image,
   Title,
   BlogPost,
-  ImageGallery
+  ImageGallery,
+  BlogPostsList,
+  BlogPostPreview
 }
 
 export const DynamicComponent = ({ component, props = {} }) => {

@@ -1,4 +1,5 @@
 import * as React from "react";
+import * as styles from './Title.module.css';
 
 export const Title = ({ title }) => {
   if(!title) {
@@ -6,6 +7,6 @@ export const Title = ({ title }) => {
   }
 
   return (
-    <h1>{title}</h1>
+    <h1 className={styles.title}>{title}</h1>
   );
 };

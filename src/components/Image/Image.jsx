@@ -1,4 +1,5 @@
 import * as React from "react";
+import * as styles from './Image.module.css';
 
 export const Image = ({ image }) => {
   if(!image?.name) {
@@ -6,6 +7,6 @@ export const Image = ({ image }) => {
   }
 
   return (
-    <h2>Image: {image.name} and ImageAlt: {image.alt} </h2>
+    <img className={styles.image} src={image.publicURL} alt={image.alt}/>
   );
 };
