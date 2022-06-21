@@ -9,6 +9,6 @@ import { ImageGalleryPreview } from './preview-templates/ImageGalleryPreview';
 CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
 
-CMS.registerPreviewTemplate('header', HeaderPreview);
-CMS.registerPreviewTemplate('blog-post', BlogPostPreview);
-CMS.registerPreviewTemplate('image-gallery', ImageGalleryPreview);
+CMS.registerPreviewTemplate('headers', HeaderPreview);
+CMS.registerPreviewTemplate('blog-posts', BlogPostPreview);
+CMS.registerPreviewTemplate('image-galleries', ImageGalleryPreview);

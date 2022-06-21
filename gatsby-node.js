@@ -123,6 +123,10 @@ const getBlogPostBySlug = async (graphql, slug) => {
 
   if (blogPost?.previewImage) {
     blogPost.previewImage.alt = blogPost?.previewImageAlt;
+  } else {
+    blogPost.previewImage = {
+      ...blogPost.mainImage
+    }
   }
 
   blogPost.content = blogPostQueryResult?.data?.allMarkdownRemark?.edges?.[0]?.node?.html;

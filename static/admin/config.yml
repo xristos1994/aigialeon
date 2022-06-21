@@ -29,22 +29,22 @@ collections:
           types: [
             { label: "Header", name: "header",
               fields: [
-                { label: "Header", name: "header", widget: "relation", collection: "header", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["title-{{title}}"], multiple: false }
+                { label: "Header", name: "header", widget: "relation", collection: "headers", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["title-{{title}}"], multiple: false }
               ]
             },
             { label: "Blog Post", name: "blogPost",
               fields: [
-                { label: "Blog Post", name: "blogPost", widget: "relation", collection: "blog-post", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["{{title}}"], multiple: false }
+                { label: "Blog Post", name: "blogPost", widget: "relation", collection: "blog-posts", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["{{title}}"], multiple: false }
               ]
             },
             { label: "Image Gallery", name: "imageGallery",
               fields: [
-                { label: "Image Gallery", name: "imageGallery", widget: "relation", collection: "image-gallery", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["{{title}}"], multiple: false }
+                { label: "Image Gallery", name: "imageGallery", widget: "relation", collection: "image-galleries", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["{{title}}"], multiple: false }
               ]
             }
           ]
         }
-      - { label: "Page Category", name: "pageCategory", widget: "relation", multiple: true, collection: "page-category", display_fields: ["{{title}}"], search_fields: ["title"], value_field: "{{slug}}" }
+      - { label: "Page Category", name: "pageCategory", widget: "relation", multiple: true, collection: "page-categories", display_fields: ["{{title}}"], search_fields: ["title"], value_field: "{{slug}}" }
 
   - name: "blog-posts"
     label: "Blog Posts"
@@ -71,7 +71,7 @@ collections:
     fields:
       - { label: "Element Type", name: "elementType", widget: "hidden", default: "header" }
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Page Category", name: "pageCategory", widget: "relation", multiple: true, collection: "page-category", display_fields: ["{{title}}"], search_fields: ["title"], value_field: "{{slug}}" }
+      - { label: "Page Category", name: "pageCategory", widget: "relation", multiple: true, collection: "page-categories", display_fields: ["{{title}}"], search_fields: ["title"], value_field: "{{slug}}" }
 
   - name: "image-galleries"
     label: "Image Galleries"
