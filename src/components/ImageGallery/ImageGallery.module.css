@@ -1,0 +1,17 @@
+.imageGallery {
+  padding-top: 1rem;
+}
+
+.imagesContainer {
+  padding-top: 0.5rem;
+}
+
+.previewImage {
+  max-height: 8rem;
+  cursor: pointer;
+}
+
+.activeImage {
+  max-width: 95vw;
+  max-height: 95vh;
+}

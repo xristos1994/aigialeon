@@ -21,8 +21,6 @@
 .headerLink.selected {
   background-color: var(--header-selected-bg-color);
   color: var(--header-selected-color);
-  cursor: default;
-  pointer-events: none;
 }
 
 .toggleMenuBtn {

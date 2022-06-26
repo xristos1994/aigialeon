@@ -1,13 +1,14 @@
 import React from "react";
 import { DynamicComponent } from '../DynamicComponent/DynamicComponent';
-import './Page.module.css';
+import './normalize.module.css';
 import './variables.module.css';
+import * as styles from './Page.module.css';
 
 const Page = (props) => {
   const components = props?.pageContext?.components || [];
 
   return (
-    <div>
+    <div className={styles.pageContainer}>
       {
         components.map((component, index) => {
           return (

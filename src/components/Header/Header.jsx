@@ -5,14 +5,20 @@ import { Title } from '../Title/Title';
 import { classnames } from '../../utils/classnames';
 import * as styles from './Header.module.css';
 
-// TODO:  While building the page maybe I could pass an extra property called pageUrl in order to do checks, or maybe another property called selected url. I need this in order to add class styles.selected to the selected category
-
 export const Header = ({ links = [], title, description, mainImage }) => {
   const [isMenuExpanded, setIsMenuExpanded] = React.useState(false);
 
   const toggleMenu = () => {
     setIsMenuExpanded(isMenuExpanded => !isMenuExpanded);
   }
+
+  let pathname = '';
+
+  if (typeof window !== undefined) {
+    pathname = window.location.pathname;
+  }
+
+  const firstPartOfPathname = '/' + pathname.split('/')[1];
 
   return (
     <>
@@ -32,7 +38,7 @@ export const Header = ({ links = [], title, description, mainImage }) => {
             {
               links.map((link, index) => {
                 return (
-                  <a key={index} href={link.url} className={styles.headerLink}>
+                  <a key={index} href={link.url} className={classnames(styles.headerLink, {[styles.selected]: firstPartOfPathname === link.url})}>
                     {link.label}
                   </a>
                 );

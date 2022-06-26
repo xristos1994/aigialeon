@@ -7,4 +7,10 @@
   --header-hover-color: yellow;
   --header-selected-bg-color: green;
   --header-selected-color: cyan;
+
+  --blogPost-publishDate-color: grey;
+
+  --blured-container-bg-color: rgba(0, 0, 0, 0.8);
+
+  --blured-content-z-index: 10;
 }
