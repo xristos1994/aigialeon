@@ -11,6 +11,9 @@ sections:
           JavaScript is a programming language, embedded in web pages and it is used in order to manipulate the HTML content and therefore make a web page interactive.
 
 
+          <div>Test Div with class xxx</div>
+
+
           More specifically, it is:
 
 
