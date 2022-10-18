@@ -34,13 +34,42 @@ sections:
           JavaScript can also be used for creating:
 
 
-          - web applications for browsers
+          * web applications for browsers
 
-          - browser extensions
+          * browser extensions
 
-          - desktop apps
+          * desktop apps
 
-          - native mobile apps and many more
+          * native mobile apps and many more
+
+
+          <﻿div class="myClass">My Div</div>
+
+
+          ![my image alt text](/img/screenshot-2022-10-18-at-11.58.51-am.png "My image title")
+
+
+          ```
+
+          `console.log(1123);`
+
+          `console.log(2352345`
+
+
+          if(c === 1) {
+            const a = 123;
+            return 11
+          }
+
+          ```
+
+
+          [www.google.com](GOOGLE)
+
+
+          `console.log(1123);`
+
+          `console.log(2352345`
   - sectionTitle: Data Types
     pages:
       - pageTitle: What Are Data Types
