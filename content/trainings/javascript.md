@@ -32,6 +32,19 @@ sections:
           <row> This is a new row</row>
 
           <div class="myDiv"> This is myDiv </div>
+
+
+          | Attribute   | Description                                                 |
+
+          | ----------- | ----------------------------------------------------------- |
+
+          | onchange    | Script to be run when the value of the element is changed   |
+
+          | onclick     | Script to be run when the element is being clicked          |
+
+          | oninput     | Script to be run when the element gets user input           |
+
+          | onmouseover | Script to be run when a mouse pointer moves over an element |
       - pageTitle: Why JavaScript
         isActive: true
         body: >-
