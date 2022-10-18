@@ -22,18 +22,24 @@ collections:
       - label: Title
         name: title
         widget: string
+      - label: "Active"
+        name: "isActive"
+        widget: "boolean"
+        default: true
       - label: Sections
         name: sections
         minimize_collapsed: true
         widget: "list"
         fields:
-          - { label: Section Title, name: sectionTitle, widget: string, default: "default section title" }
+          - { label: Section Title, name: sectionTitle, widget: string, default: "", unique: true }
+          - { label: "Active", name: "isActive", widget: "boolean", default: true }
           - { label: pages,
               name: pages,
               minimize_collapsed: true,
               widget: list,
               fields: [
                 {label: "Page Title", name: "pageTitle", widget: "string", default: "default page title"},
+                { label: "Active", name: "isActive", widget: "boolean", default: true },
                 {label: "Body", name: "body", widget: "markdown" }
               ]
             }

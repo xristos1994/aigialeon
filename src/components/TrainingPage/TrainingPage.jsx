@@ -30,7 +30,6 @@ const TrainingPage = (props) => {
                 {...props}
               />
             ),
-            div: (props) => <div className={props.class}>{props.children}</div>,
             row: (props) => <div className="row">{props.children}</div>,
             blockquote: (props) => (
               <blockquote className={props.className}>{props.children}</blockquote>
@@ -38,7 +37,7 @@ const TrainingPage = (props) => {
             table: (props) => <table className="table">{props.children}</table>
           }}
         />
-      </div>;
+      </div>
     </div>
   );
 };

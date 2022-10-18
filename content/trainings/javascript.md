@@ -14,7 +14,7 @@ sections:
           JavaScript is a programming language, embedded in web pages and it is used in order to manipulate the HTML content and therefore make a web page interactive.
 
 
-          <﻿div class="div1">This is a div</div>
+          <div class="div1">This is a div</div>
 
 
           More specifically, it is:
@@ -25,10 +25,10 @@ sections:
           - dynamically-typed
 
 
-          <﻿row>This is a row</row>
+          <row>This is a row</row>
 
 
-          <﻿div class="myDiv"> This is myDiv </div>
+          <div class="myDiv"> This is myDiv </div>
       - pageTitle: Why JavaScript
         isActive: true
         body: >-

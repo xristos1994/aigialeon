@@ -35,12 +35,15 @@ exports.createPages = async ({ actions, graphql }) => {
             id
             frontmatter {
               title
+              isActive
               sections {
                 pages {
                   body
                   pageTitle
+                  isActive
                 }
                 sectionTitle
+                isActive
               }
             }
           }
@@ -58,15 +61,14 @@ exports.createPages = async ({ actions, graphql }) => {
 
   const trainingsData = [];
 
-  let trainingCounter = 0;
-  let sectionCounter = 0;
-  let pageCounter = 0;
 
   if (!errors) {
     trainings.forEach(({ node, trainingIndex }) => {
-      trainingCounter++;
       const pages = [];
       const training = node;
+      if (!training.frontmatter.isActive) {
+        return;
+      }
       const trainingSlug = slugify(training.frontmatter.title);
 
       const finalTraining = {
@@ -75,7 +77,9 @@ exports.createPages = async ({ actions, graphql }) => {
       };
 
       training.frontmatter.sections.forEach((section) => {
-        sectionCounter++;
+        if (!section.isActive) {
+          return;
+        }
         const sectionSlug = slugify(section.sectionTitle);
         const finalSection = {
           title: section.sectionTitle,
@@ -83,14 +87,13 @@ exports.createPages = async ({ actions, graphql }) => {
         };
 
         section.pages.forEach((page) => {
-          pageCounter++;
-          let slug = `/${trainingSlug}/${sectionSlug}/${slugify(page.pageTitle)}-${pageCounter}`;
-          const numOfPagesWithTheSameSlug = pages.filter(p => p.slug === slug).length;
-          slug = slug + (numOfPagesWithTheSameSlug === 0 ? '' : `---${numOfPagesWithTheSameSlug}`);
+          if (!page.isActive) {
+            return;
+          }
 
           pages.push({
             title: page.pageTitle,
-            slug,
+            slug: `/${trainingSlug}/${sectionSlug}/${slugify(page.pageTitle)}`,
             body: page.body
           })
 
