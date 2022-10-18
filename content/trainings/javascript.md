@@ -20,4 +20,25 @@ sections:
           - a scripting language
 
           - dynamically-typed
+      - pageTitle: Why JavaScript
+        isActive: false
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
 ---
