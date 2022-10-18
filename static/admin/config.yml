@@ -13,103 +13,27 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - name: "pages"
-    label: "Pages"
-    folder: "src/pages_md"
+  - name: trainings
+    label: Trainings
+    label_singular: 'Training'
+    folder: content/trainings
     create: true
-    slug: "{{slug}}"
     fields:
-      - { label: "Element Type", name: "elementType", widget: "hidden", default: "page" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Display Title", name: "displayTitle", widget: "string" }
-      - { label: "Main Image", name: "mainImage", widget: image }
-      - { label: "Main Image Alt", name: "mainImageAlt", widget: "string" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "References", name: "references", widget: "list", allow_add: true,
-          types: [
-            { label: "Header", name: "header",
+      - label: Title
+        name: title
+        widget: string
+      - label: Sections
+        name: sections
+        minimize_collapsed: true
+        widget: "list"
+        fields:
+          - { label: Section Title, name: sectionTitle, widget: string, default: "default section title" }
+          - { label: pages,
+              name: pages,
+              minimize_collapsed: true,
+              widget: list,
               fields: [
-                { label: "Header", name: "header", widget: "relation", collection: "headers", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["title-{{title}}"], multiple: false }
-              ]
-            },
-            { label: "Blog Post", name: "blogPost",
-              fields: [
-                { label: "Blog Post", name: "blogPost", widget: "relation", collection: "blog-posts", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["{{title}}"], multiple: false }
-              ]
-            },
-            { label: "Image Gallery", name: "imageGallery",
-              fields: [
-                { label: "Image Gallery", name: "imageGallery", widget: "relation", collection: "image-galleries", value_field: "{{slug}}", search_fields: ["title"], display_fields: ["{{title}}"], multiple: false }
+                {label: "Page Title", name: "pageTitle", widget: "string", default: "default page title"},
+                {label: "Body", name: "body", widget: "markdown" }
               ]
             }
-          ]
-        }
-      - { label: "Page Category", name: "pageCategory", widget: "relation", multiple: true, collection: "page-categories", display_fields: ["{{title}}"], search_fields: ["title"], value_field: "{{slug}}" }
-
-  - name: "blog-posts"
-    label: "Blog Posts"
-    folder: "src/pages_md/COMPONENTS/blogPosts"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Element Type", name: "elementType", widget: "hidden", default: "blog-post" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Display Title", name: "displayTitle", widget: "string" }
-      - { label: "Publish Date", name: "publishDate", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "text" }
-      - { label: "Main Image", name: "mainImage", widget: image }
-      - { label: "Main Image Alt", name: "mainImageAlt", widget: "string" }
-      - { label: "Preview Image", name: "previewImage", widget: image }
-      - { label: "Preview Image Alt", name: "previewImageAlt", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
-
-  - name: "headers"
-    label: "Headers"
-    folder: "src/pages_md/COMPONENTS/headers"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Element Type", name: "elementType", widget: "hidden", default: "header" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Page Category", name: "pageCategory", widget: "relation", multiple: true, collection: "page-categories", display_fields: ["{{title}}"], search_fields: ["title"], value_field: "{{slug}}" }
-
-  - name: "image-galleries"
-    label: "Image Galleries"
-    folder: "src/pages_md/COMPONENTS/imageGalleries"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - { label: "Element Type", name: "elementType", widget: "hidden", default: "imageGallery" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Display Title", name: "displayTitle", widget: "string" }
-      - { label: "Image List", name: "imageList", widget: "list",
-          fields: [
-            { label: Image, name: image, widget: object,
-              fields: [
-                { label: Full Image, name: fullImage, widget: image },
-                { label: Preview Image, name: previewImage, widget: image },
-                { label: Alt, name: alt, widget: string },
-              ]
-            }
-          ]
-        }
-
-  - name: "page-categories"
-    label: "Page Categories"
-    folder: "src/pages_md/COMPONENTS/pageCategories"
-    create: true
-    slug: "{{slug}}"
-    editor:
-      preview: false
-    fields:
-      - { label: "Element Type", name: "elementType", widget: "hidden", default: "pageCategory" }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Url", name: "url", widget: "string" }
-      - { label: "Label", name: "label", widget: "string" }
-
-# na ftia3w imageGallery component and logic
-# na valw
-#  - video gallery
-#  - single video
-#  - location
-#  - roster with players list
