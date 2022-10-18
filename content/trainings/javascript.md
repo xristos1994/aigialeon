@@ -20,9 +20,9 @@ sections:
           More specifically, it is:
 
 
-          - a scripting language
+          * a scripting language
 
-          - dynamically-typed
+          * dynamically-typed
 
 
           <row>This is a row</row>
@@ -30,6 +30,7 @@ sections:
           <row>This is another row</div>
 
           <row> This is a new row</row>
+
 
           <div class="myDiv"> This is myDiv </div>
 
@@ -45,6 +46,11 @@ sections:
           | oninput     | Script to be run when the element gets user input           |
 
           | onmouseover | Script to be run when a mouse pointer moves over an element |
+
+
+
+
+          ![my image](/img/screenshot-2022-10-18-at-11.58.51-am.png "my image title")
       - pageTitle: Why JavaScript
         isActive: true
         body: >-
