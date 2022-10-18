@@ -27,6 +27,10 @@ sections:
 
           <row>This is a row</row>
 
+          <row>This is another row</div>
+
+          <row> This is a new row</>div
+
 
           <div class="myDiv"> This is myDiv </div>
       - pageTitle: Why JavaScript
