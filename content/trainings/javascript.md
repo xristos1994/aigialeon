@@ -20,6 +20,9 @@ sections:
           - a scripting language
 
           - dynamically-typed
+
+
+          <﻿row>This is a row</row>
       - pageTitle: Why JavaScript
         isActive: true
         body: >-
