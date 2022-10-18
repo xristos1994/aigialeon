@@ -4,7 +4,7 @@ sections:
   - sectionTitle: Introduction
     pages:
       - pageTitle: What is Javascript
-        body: >
+        body: >+
           # What is JavaScript
 
 
@@ -12,14 +12,6 @@ sections:
 
 
           <div class="xxx">Test Div with class xxx</div>
-
-
-          More specifically, it is:
-
-
-          - a scripting language
-
-          - dynamically-typed
 
 
           | Attribute   | Description                                                 |
@@ -33,6 +25,16 @@ sections:
           | oninput     | Script to be run when the element gets user input           |
 
           | onmouseover | Script to be run when a mouse pointer moves over an element |
+
+
+          More specifically, it is:
+
+
+          - a scripting language
+
+          - dynamically-typed
+
+
       - pageTitle: Why Javascript
         body: >-
           # Why JavaScript
