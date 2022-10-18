@@ -20,6 +20,19 @@ sections:
           - a scripting language
 
           - dynamically-typed
+
+
+          | Attribute   | Description                                                 |
+
+          | ----------- | ----------------------------------------------------------- |
+
+          | onchange    | Script to be run when the value of the element is changed   |
+
+          | onclick     | Script to be run when the element is being clicked          |
+
+          | oninput     | Script to be run when the element gets user input           |
+
+          | onmouseover | Script to be run when a mouse pointer moves over an element |
       - pageTitle: Why Javascript
         body: >-
           # Why JavaScript
