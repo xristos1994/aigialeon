@@ -21,7 +21,7 @@ sections:
 
           - dynamically-typed
       - pageTitle: Why JavaScript
-        isActive: false
+        isActive: true
         body: >-
           It is a lightweight, interpreted, object-oriented programming language
           with first-class functions, most commonly known as a client-side
