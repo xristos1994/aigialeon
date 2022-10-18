@@ -17,6 +17,4 @@ sections:
           - a scripting language
 
           - dynamically-typed
-      - pageTitle: What Is Javascript
-        body: What Is Javascript 2
 ---
