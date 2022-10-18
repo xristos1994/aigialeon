@@ -58,8 +58,13 @@ exports.createPages = async ({ actions, graphql }) => {
 
   const trainingsData = [];
 
+  let trainingCounter = 0;
+  let sectionCounter = 0;
+  let pageCounter = 0;
+
   if (!errors) {
     trainings.forEach(({ node, trainingIndex }) => {
+      trainingCounter++;
       const pages = [];
       const training = node;
       const trainingSlug = slugify(training.frontmatter.title);
@@ -70,6 +75,7 @@ exports.createPages = async ({ actions, graphql }) => {
       };
 
       training.frontmatter.sections.forEach((section) => {
+        sectionCounter++;
         const sectionSlug = slugify(section.sectionTitle);
         const finalSection = {
           title: section.sectionTitle,
@@ -77,7 +83,8 @@ exports.createPages = async ({ actions, graphql }) => {
         };
 
         section.pages.forEach((page) => {
-          let slug = `/${trainingSlug}/${sectionSlug}/${slugify(page.pageTitle)}`;
+          pageCounter++;
+          let slug = `/${trainingSlug}/${sectionSlug}/${slugify(page.pageTitle)}-${pageCounter}`;
           const numOfPagesWithTheSameSlug = pages.filter(p => p.slug === slug).length;
           slug = slug + (numOfPagesWithTheSameSlug === 0 ? '' : `---${numOfPagesWithTheSameSlug}`);
 
@@ -105,7 +112,7 @@ exports.createPages = async ({ actions, graphql }) => {
         const nextSlug = index === numOfPages - 1 ? '' : pages[index + 1].slug;
         const currentPageIndex = index + 1;
 
-        console.log(`------------- ${trainingIndex} - ${currentPageIndex} ------------`);
+        console.log(`------------- ${trainingIndex} - ${currentPageIndex} -> ${page.slug}------------`);
 
         createPage({
           path: page.slug, // FIXME: Check if slug already exists,
