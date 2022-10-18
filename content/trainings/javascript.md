@@ -33,6 +33,8 @@ sections:
 
           JavaScript can also be used for creating:
 
+          <div class="xxx">Test Div with class xxx</div>
+
 
           * web applications for browsers
 
@@ -43,7 +45,7 @@ sections:
           * native mobile apps and many more
 
 
-          <﻿div class="myClass">My Div</div>
+          <div class="xxx">Test Div with class xxx</div>
 
 
           ![my image alt text](/img/screenshot-2022-10-18-at-11.58.51-am.png "My image title")
