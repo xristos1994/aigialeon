@@ -60,7 +60,7 @@ exports.createPages = async ({ actions, graphql }) => {
   const pages = [];
 
   if (!errors) {
-    trainings.forEach(({ node }) => {
+    trainings.forEach(({ node, trainingIndex }) => {
       const training = node;
       const trainingSlug = slugify(training.frontmatter.title);
 
@@ -104,6 +104,8 @@ exports.createPages = async ({ actions, graphql }) => {
         const prevSlug = index === 0 ? '' : pages[index - 1].slug;
         const nextSlug = index === numOfPages - 1 ? '' : pages[index + 1].slug;
         const currentPageIndex = index + 1;
+
+        console.log(`------------- ${trainingIndex} - ${currentPageIndex} ------------`);
 
         createPage({
           path: page.slug, // FIXME: Check if slug already exists,

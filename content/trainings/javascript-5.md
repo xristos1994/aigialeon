@@ -1,5 +1,5 @@
 ---
-title: Javascript
+title: Javascript 5
 sections:
   - sectionTitle: Introduction
     pages:
