@@ -23,6 +23,9 @@ sections:
 
 
           <﻿row>This is a row</row>
+
+
+          <﻿div class="myDiv"> This is myDiv </div>
       - pageTitle: Why JavaScript
         isActive: true
         body: >-
