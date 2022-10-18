@@ -1,5 +1,5 @@
 ---
-title: Javascript 6
+title: Javascript 7
 sections:
   - sectionTitle: Introduction
     pages:

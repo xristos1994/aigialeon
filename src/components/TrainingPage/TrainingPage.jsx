@@ -30,6 +30,7 @@ const TrainingPage = (props) => {
                 {...props}
               />
             ),
+            div: (props) => <div className={props.class}>{props.children}</div>,
             row: (props) => <div className="row">{props.children}</div>,
             blockquote: (props) => (
               <blockquote className={props.className}>{props.children}</blockquote>

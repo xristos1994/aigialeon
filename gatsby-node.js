@@ -57,10 +57,10 @@ exports.createPages = async ({ actions, graphql }) => {
   const trainings = trainingsQueryResult?.data?.allMarkdownRemark?.edges;
 
   const trainingsData = [];
-  const pages = [];
 
   if (!errors) {
     trainings.forEach(({ node, trainingIndex }) => {
+      const pages = [];
       const training = node;
       const trainingSlug = slugify(training.frontmatter.title);
 
