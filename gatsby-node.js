@@ -32,6 +32,7 @@ exports.createPages = async ({ actions, graphql }) => {
             fields {
               slug
             }
+            html
             id
             frontmatter {
               title
@@ -93,7 +94,7 @@ exports.createPages = async ({ actions, graphql }) => {
 
           pages.push({
             title: page.pageTitle,
-            slug: `/${trainingSlug}/${sectionSlug}/${slugify(page.pageTitle)}`,
+            slug: `/${trainingSlug}/${sectionSlug}/${slugify(page.pageTitle)}-${pages.length}`,
             body: page.body
           })
 
@@ -127,7 +128,8 @@ exports.createPages = async ({ actions, graphql }) => {
             nextSlug,
             currentPageIndex,
             numOfPages,
-            trainingsData
+            trainingsData,
+            trainings // FIXME DELETE THIS LINE
           }
         });
 

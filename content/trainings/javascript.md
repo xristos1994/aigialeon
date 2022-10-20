@@ -25,6 +25,23 @@ sections:
           * dynamically-typed
 
 
+          ```javascript{3-4, 8}
+
+          console.log('Hello world');
+
+          console.log('Hello world');
+
+          console.log('Hello world');
+
+          console.log('Hello world');
+
+          console.log('Hello world');
+
+          console.log('Hello world');
+
+          ```
+
+
           <row>This is a row</row>
 
           <row>This is another row</div>
@@ -48,12 +65,9 @@ sections:
           | onmouseover | Script to be run when a mouse pointer moves over an element |
 
 
-
-
           ![my image](/img/screenshot-2022-10-18-at-11.58.51-am.png "my image title")
 
-
-          [hello world example](embedded-codesandbox://test-1?view=split)
+          [test-1](embedded-codesandbox://test-1)
       - pageTitle: Why JavaScript
         isActive: true
         body: >-
@@ -75,4 +89,31736 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+      - pageTitle: Why JavaScript
+        isActive: true
+        body: >-
+          It is a lightweight, interpreted, object-oriented programming language
+          with first-class functions, most commonly known as a client-side
+          scripting language for web pages.
+
+
+          It has support for procedural, object-oriented and functional programming styles, which makes it very flexible for developers.
+
+
+          JavaScript can also be used for creating:
+
+
+          - web applications for browsers
+
+          - browser extensions
+
+          - desktop apps
+
+          - native mobile apps and many more
+
 ---
