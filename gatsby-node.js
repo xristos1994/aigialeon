@@ -94,7 +94,7 @@ exports.createPages = async ({ actions, graphql }) => {
 
           pages.push({
             title: page.pageTitle,
-            slug: `/${trainingSlug}/${sectionSlug}/${slugify(page.pageTitle)}-${pages.length}`,
+            slug: `/${trainingSlug}/${sectionSlug}/${slugify(page.pageTitle)}-${pages.length}`, // FIXME remove pages.length
             body: page.body
           })
 
