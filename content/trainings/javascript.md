@@ -1,5 +1,5 @@
 ---
-title: Javascript1
+title: Javascript
 isActive: true
 sections:
   - sectionTitle: Introduction
