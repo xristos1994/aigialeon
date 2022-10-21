@@ -89,7 +89,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -173,7 +173,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -257,7 +257,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -341,7 +341,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -425,7 +425,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -509,7 +509,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -593,7 +593,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -677,7 +677,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -761,7 +761,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -845,7 +845,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -929,7 +929,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -1013,7 +1013,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -1097,7 +1097,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -1181,7 +1181,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -1265,7 +1265,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -1349,7 +1349,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -1433,7 +1433,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -1517,7 +1517,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -1601,7 +1601,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -1685,6 +1685,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -1769,7 +1772,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -1853,7 +1856,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -1937,7 +1940,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -2021,7 +2024,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -2105,7 +2108,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -2189,7 +2192,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -2273,7 +2276,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -2357,7 +2360,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -2441,7 +2444,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -2525,6 +2528,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -2609,7 +2615,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -2693,7 +2699,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -2777,7 +2783,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -2861,7 +2867,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -2945,7 +2951,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -3029,7 +3035,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -3113,7 +3119,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -3197,7 +3203,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -3281,7 +3287,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -3365,6 +3371,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -3449,7 +3458,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -3533,7 +3542,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -3617,7 +3626,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -3701,7 +3710,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -3785,7 +3794,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -3869,7 +3878,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -3953,7 +3962,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4037,7 +4046,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4121,7 +4130,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4205,7 +4214,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+    - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4289,7 +4298,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4373,7 +4382,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4457,7 +4466,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4541,7 +4550,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4625,7 +4634,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4709,7 +4718,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4793,7 +4802,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4877,7 +4886,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -4961,7 +4970,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -5045,7 +5054,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -5129,7 +5138,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -5213,7 +5222,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -5297,7 +5306,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -5381,7 +5390,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -5465,7 +5474,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -5549,7 +5558,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -5633,7 +5642,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -5717,7 +5726,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -5801,7 +5810,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -5885,6 +5894,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -5969,7 +5981,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -6053,7 +6065,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -6137,7 +6149,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -6221,7 +6233,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -6305,7 +6317,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -6389,7 +6401,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -6473,7 +6485,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -6557,7 +6569,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -6641,7 +6653,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -6725,6 +6737,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -6809,7 +6824,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -6893,7 +6908,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -6977,7 +6992,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -7061,7 +7076,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -7145,7 +7160,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -7229,7 +7244,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -7313,7 +7328,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -7397,7 +7412,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -7481,7 +7496,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -7565,6 +7580,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -7649,7 +7667,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -7733,7 +7751,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -7817,7 +7835,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -7901,7 +7919,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -7985,7 +8003,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8069,7 +8087,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8153,7 +8171,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8237,7 +8255,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8321,7 +8339,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8405,7 +8423,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+    - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8489,7 +8507,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8573,7 +8591,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8657,7 +8675,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8741,7 +8759,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8825,7 +8843,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8909,7 +8927,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -8993,7 +9011,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -9077,7 +9095,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -9161,7 +9179,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -9245,7 +9263,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -9329,7 +9347,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -9413,7 +9431,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -9497,7 +9515,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -9581,7 +9599,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -9665,7 +9683,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -9749,7 +9767,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -9833,7 +9851,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -9917,7 +9935,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -10001,7 +10019,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -10085,6 +10103,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -10169,7 +10190,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -10253,7 +10274,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -10337,7 +10358,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -10421,7 +10442,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -10505,7 +10526,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -10589,7 +10610,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -10673,7 +10694,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -10757,7 +10778,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -10841,7 +10862,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -10925,6 +10946,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -11009,7 +11033,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -11093,7 +11117,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -11177,7 +11201,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -11261,7 +11285,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -11345,7 +11369,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -11429,7 +11453,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -11513,7 +11537,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -11597,7 +11621,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -11681,7 +11705,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -11765,6 +11789,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -11849,7 +11876,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -11933,7 +11960,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12017,7 +12044,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12101,7 +12128,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12185,7 +12212,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12269,7 +12296,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12353,7 +12380,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12437,7 +12464,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12521,7 +12548,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12605,7 +12632,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+    - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12689,7 +12716,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12773,7 +12800,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12857,7 +12884,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -12941,7 +12968,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13025,7 +13052,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13109,7 +13136,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13193,7 +13220,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13277,7 +13304,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13361,7 +13388,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13445,7 +13472,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13529,7 +13556,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13613,7 +13640,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13697,7 +13724,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13781,7 +13808,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13865,7 +13892,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -13949,7 +13976,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -14033,7 +14060,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -14117,7 +14144,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -14201,7 +14228,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -14285,6 +14312,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -14369,7 +14399,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -14453,7 +14483,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -14537,7 +14567,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -14621,7 +14651,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -14705,7 +14735,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -14789,7 +14819,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -14873,7 +14903,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -14957,7 +14987,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -15041,7 +15071,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -15125,6 +15155,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -15209,7 +15242,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -15293,7 +15326,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -15377,7 +15410,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -15461,7 +15494,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -15545,7 +15578,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -15629,7 +15662,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -15713,7 +15746,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -15797,7 +15830,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -15881,7 +15914,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -15965,6 +15998,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -16049,7 +16085,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -16133,7 +16169,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -16217,7 +16253,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -16301,7 +16337,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -16385,7 +16421,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -16469,7 +16505,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -16553,7 +16589,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -16637,7 +16673,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -16721,7 +16757,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -16805,7 +16841,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+    - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -16889,7 +16925,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -16973,7 +17009,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17057,7 +17093,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17141,7 +17177,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17225,7 +17261,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17309,7 +17345,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17393,7 +17429,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17477,7 +17513,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17561,7 +17597,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17645,7 +17681,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17729,7 +17765,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17813,7 +17849,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17897,7 +17933,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -17981,7 +18017,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -18065,7 +18101,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -18149,7 +18185,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -18233,7 +18269,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -18317,7 +18353,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -18401,7 +18437,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -18485,6 +18521,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -18569,7 +18608,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -18653,7 +18692,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -18737,7 +18776,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -18821,7 +18860,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -18905,7 +18944,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -18989,7 +19028,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -19073,7 +19112,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -19157,7 +19196,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -19241,7 +19280,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -19325,6 +19364,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -19409,7 +19451,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -19493,7 +19535,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -19577,7 +19619,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -19661,7 +19703,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -19745,7 +19787,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -19829,7 +19871,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -19913,7 +19955,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -19997,7 +20039,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -20081,7 +20123,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -20165,6 +20207,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -20249,7 +20294,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -20333,7 +20378,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -20417,7 +20462,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -20501,7 +20546,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -20585,7 +20630,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -20669,7 +20714,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -20753,7 +20798,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -20837,7 +20882,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -20921,7 +20966,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21005,7 +21050,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+    - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21089,7 +21134,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21173,7 +21218,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21257,7 +21302,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21341,7 +21386,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21425,7 +21470,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21509,7 +21554,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21593,7 +21638,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21677,7 +21722,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21761,7 +21806,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21845,7 +21890,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -21929,7 +21974,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -22013,7 +22058,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -22097,7 +22142,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -22181,7 +22226,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -22265,7 +22310,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -22349,7 +22394,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -22433,7 +22478,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -22517,7 +22562,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -22601,7 +22646,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -22685,6 +22730,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -22769,7 +22817,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -22853,7 +22901,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -22937,7 +22985,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -23021,7 +23069,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -23105,7 +23153,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -23189,7 +23237,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -23273,7 +23321,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -23357,7 +23405,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -23441,7 +23489,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -23525,6 +23573,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -23609,7 +23660,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -23693,7 +23744,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -23777,7 +23828,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -23861,7 +23912,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -23945,7 +23996,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -24029,7 +24080,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -24113,7 +24164,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -24197,7 +24248,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -24281,7 +24332,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -24365,6 +24416,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -24449,7 +24503,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -24533,7 +24587,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -24617,7 +24671,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -24701,7 +24755,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -24785,7 +24839,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -24869,7 +24923,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -24953,7 +25007,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25037,7 +25091,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25121,7 +25175,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25205,7 +25259,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+    - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25289,7 +25343,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25373,7 +25427,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25457,7 +25511,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25541,7 +25595,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25625,7 +25679,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25709,7 +25763,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25793,7 +25847,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25877,7 +25931,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -25961,7 +26015,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -26045,7 +26099,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -26129,7 +26183,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -26213,7 +26267,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -26297,7 +26351,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -26381,7 +26435,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -26465,7 +26519,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -26549,7 +26603,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -26633,7 +26687,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -26717,7 +26771,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -26801,7 +26855,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -26885,6 +26939,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -26969,7 +27026,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -27053,7 +27110,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -27137,7 +27194,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -27221,7 +27278,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -27305,7 +27362,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -27389,7 +27446,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -27473,7 +27530,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -27557,7 +27614,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -27641,7 +27698,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -27725,6 +27782,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -27809,7 +27869,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -27893,7 +27953,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -27977,7 +28037,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -28061,7 +28121,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -28145,7 +28205,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -28229,7 +28289,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -28313,7 +28373,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -28397,7 +28457,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -28481,7 +28541,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -28565,6 +28625,9 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
+    - sectionTitle: Introduction
+    isActive: true
+    pages:
       - pageTitle: What is Javascript
         isActive: true
         body: >-
@@ -28649,7 +28712,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -28733,7 +28796,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -28817,7 +28880,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -28901,7 +28964,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -28985,7 +29048,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -29069,7 +29132,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -29153,7 +29216,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -29237,7 +29300,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript
@@ -29321,7 +29384,7 @@ sections:
           - desktop apps
 
           - native mobile apps and many more
-      - pageTitle: What is Javascript
+       - pageTitle: What is Javascript
         isActive: true
         body: >-
           # What is JavaScript

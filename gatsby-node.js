@@ -67,6 +67,10 @@ exports.createPages = async ({ actions, graphql }) => {
     trainings.forEach(({ node, trainingIndex }) => {
       const pages = [];
       const training = node;
+      if(training.frontmatter.title !== 'Javascript') {
+        return;
+      }
+
       if (!training.frontmatter.isActive) {
         return;
       }
